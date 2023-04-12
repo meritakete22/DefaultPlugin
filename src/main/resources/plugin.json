@@ -1,10 +1,10 @@
 {
-	"name": "Default plugin",
-	"author": "Popcorn",
-	"version": "2.0.0",
-	"minVersion": "1.13.17 beta 110",
-	"supportedVersion": "1.13.17 beta 110",
-	"basePackage": "eu.darkbot.popcorn.def",
+	"name": "Pruebas plugin",
+	"author": "Error[404]",
+	"version": "1.0.0",
+	"minVersion": "1.120",
+	"supportedVersion": "1.120",
+	"basePackage": "com.meritakete",
 	"features": [
 		"eu.darkbot.popcorn.def.CaptchaPicker",
 		"eu.darkbot.popcorn.def.PalladiumModule",
